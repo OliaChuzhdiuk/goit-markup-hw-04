@@ -516,6 +516,7 @@ border-radius: 0px 0px 4px 4px;
     padding-right: 22px;
     padding-left: 22px;
     border: none;
+    border-radius: 4px;
 
     font-weight: 500;
     font-size: 16px;
@@ -550,6 +551,7 @@ border-radius: 0px 0px 4px 4px;
 .buttons-item:focus,
 .buttons-item:hover{
     background-color: var(--accent-text-color);
+    border-radius: 4px;
 }
    /* Portfolio-item */
    
